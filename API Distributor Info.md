@@ -1,5 +1,5 @@
 # Quorum API Distributor Info – Velocity, Xeno, LX63
-> Using The Free Tier Of Quorum API
+> Nova Exec Uses The Free Tier Of Quorum API
 
 | API Provider | UNC% | sUNC% | Level | Status | Auto‑Update |
 |--------------|------|-------|-------|--------|--------------|
