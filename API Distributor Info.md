@@ -1,24 +1,20 @@
-# Quorum API Distributor Info
+# Quorum API Distributor Info – Velocity, Xeno, LX63
+> Using The Free Tier Of Quorum API
 
-| API Provider | UNC% | sUNC% | Level | Status |
-|--------------|------|-------|-------|--------|
-| **Xeno** | 90% | 41% | 3 | 🟡 Downgrade required |
-| **Valex** | 94% | 95% | 8 | ⚫ Discontinued |
-| **Bunni** | 100% | 100% | 8 | 🟢 Working |
-| **Velocity** | 99% | 98% | 8 | 🔴 Down / Patched |
-| **LX63** | 96% | 95% | 8 | 🔴 Down / Patched |
+| API Provider | UNC% | sUNC% | Level | Status | Auto‑Update |
+|--------------|------|-------|-------|--------|--------------|
+| **Xeno** | 90% | 41% | 3 | 🟡 Downgrade required | No |
+| **Velocity** | 99% | 98% | 8 | 🟢 Working | Yes |
+| **LX63** | 96% | 95% | 8 | 🔴 Down / Patched | Yes |
 
 ## Legend
 - 🟢 Working – fully functional
 - 🟡 Degraded – requires downgrade or has issues
 - 🔴 Down / Patched – currently not working
-- ⚫ Discontinued – no longer supported
 
-## Notes
-- **Xeno**: Most stable & safe version. Requires downgrade.
-- **Valex**: Unstable, discontinued.
-- **Bunni**: Premium features available (custom name, user-agent, no attach notification). 100% UNC and sUNC.
-- **Velocity**: Premium features available. Auto‑update.
-- **LX63**: Free version with auto‑update.
+## Key Details
+- **Xeno**: Advertised as the *most stable & safe version*. No auto‑update. Requires a downgrade at this time.
+- **Velocity**: Auto‑update keeps the API current. 
+- **LX63**: version includes auto‑update. Currently down/patched.
 
-*Last updated: July 17, 2025*
+*Last status update: May 18, 2026*
