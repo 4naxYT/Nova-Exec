@@ -3,8 +3,8 @@
 
 | API Provider | UNC% | sUNC% | Level | Status | Auto‑Update |
 |--------------|------|-------|-------|--------|--------------|
-| **Xeno** | 90% | 41% | 3 | 🟡 Downgrade required | No |
-| **Velocity** | 99% | 98% | 8 | 🟢 Working | Yes |
+| **Xeno** | 90% | 41% | 3 | 🟡 Downgrade Required | No |
+| **Velocity** | 99% | 98% | 8 | 🟡 Downgrade Required | Yes |
 | **LX63** | 96% | 95% | 8 | 🔴 Down / Patched | Yes |
 
 ## Legend
