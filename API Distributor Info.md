@@ -4,7 +4,7 @@
 | API Provider | UNC% | sUNC% | Level | Status | Auto‑Update |
 |--------------|------|-------|-------|--------|--------------|
 | **Xeno** | 90% | 41% | 3 | 🟡 Downgrade Required | No |
-| **Velocity** | 99% | 98% | 8 | 🟡 Downgrade Required | Yes |
+| **Velocity** | 99% | 98% | 8 | 🟢 Working | Yes |
 | **LX63** | 96% | 95% | 8 | 🔴 Down / Patched | Yes |
 
 ## Legend
@@ -14,7 +14,7 @@
 
 ## Key Details
 - **Xeno**: Advertised as the *most stable & safe version*. No auto‑update. Requires a downgrade at this time.
-- **Velocity**: Auto‑update keeps the API current. 
+- **Velocity**: The Most powerfull. Auto‑update keeps the API current. 
 - **LX63**: version includes auto‑update. Currently down/patched.
 
 *Last status update: May 18, 2026*
